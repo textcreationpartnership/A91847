@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermon prononcé à Londres, le 2 de Decembre 1697. Jour d'action de graces pour la paix Par Pierre Rival.</title>
+            <author>Rival, Pierre, d. 1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91847</idno>
+            <idno type="STC">Wing R1545A</idno>
+            <idno type="STC">ESTC R230159</idno>
+            <idno type="EEBO-CITATION">99895930</idno>
+            <idno type="PROQUEST">99895930</idno>
+            <idno type="VID">153521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153521)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2368:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sermon prononcé à Londres, le 2 de Decembre 1697. Jour d'action de graces pour la paix Par Pierre Rival.</title>
+                  <author>Rival, Pierre, d. 1730.</author>
+               </titleStmt>
+               <extent>[4], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>chéz la veuve Marret &amp; Henry Ribotteau en Salisbury-Buildings dans le Strand,</publisher>
+                  <pubPlace>Londres :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In 4's.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Religious aspects --  Early works to 1800.</term>
+               <term>Sermons, French --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153521:1" rendition="simple:additions"/>
+            <p>SERMON Prononcé à LONDRES, Le 2 de Decembre 1697.</p>
+            <p>
+               <hi>Jour d'Action de Graces</hi> POUR LA <hi>PAIX.</hi>
+            </p>
+            <p>Sur ces Paroles du <bibl>Pſ. LIV. Verſ. 8.</bibl>
+               <q>Eternel je celebrerai ton Nom, parce qu'il eſt bon.</q>
+            </p>
+            <p>Par PIERRE RIVAL.</p>
+            <p>
+               <hi>A LONDRES,</hi> Chés la Veuve Marret &amp; Henry Ribotteau en Salisbury-Buildings dans le Strand. 1698.</p>
+            <pb facs="tcp:153521:2"/>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:153521:2"/>
+            <head>Approbation.</head>
+            <p>NOus ſouſſignés atteſtons avoir leu un Sermon de Mr. Rival notre Collegue ſur le <hi>Pſeaume</hi> 54. <hi>v.</hi> 8. dans le quel nous n'avons rien trouvé qui ne ſoit conforme à notre Confeſſion de Foy, &amp; que nous avons jugé tres digne d'eſtre mis au jour pour faire connoitre au public les ſentimens de tous nos Refugiés, pour la proſpe<g ref="char:EOLhyphen"/>rité du Roy &amp; de ſes Eſtats qu'il a parfaittement bien exprimés.</p>
+            <closer>
+               <dateline>A Londres, <date>le 25 Janvier 1698.</date>
+               </dateline>
+               <signed>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <list>
+                     <head>Miniſtres.</head>
+                     <item>C. Pegorier,</item>
+                     <item>J. de la Motte,</item>
+                     <item>D. Chamier.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:153521:3"/>
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> 1. <hi>ligne</hi> 2. <hi>pour</hi> Pſ. LV. <hi>liſes</hi> Pſ. LIV. <hi>p.</hi> 10. <hi>l.</hi> 10. <hi>pour</hi> le a <hi>liſes</hi> les a. <hi>p.</hi> 13. <hi>l.</hi> 16. <hi>pour</hi> &amp; <hi>liſes</hi> eſt. <hi>p.</hi> 20. <hi>l.</hi> 15. <hi>pour</hi> abreger <hi>liſes</hi> abroger. <hi>p.</hi> 24. <hi>l.</hi> 18. <hi>pour</hi> le rapport <hi>l.</hi> les rapporte. <hi>p.</hi> 25. <hi>l.</hi> 3. <hi>pour gratitude liſes gratuité. pag.</hi> 28. <hi>ligne</hi> 2. <hi>pour</hi> crées <hi>liſes</hi> creés. <hi>p.</hi> 29. <hi>l.</hi> 10. <hi>pour</hi> de peché <hi>liſes</hi> du peché. <hi>p.</hi> 29. <hi>l.</hi> 11. <hi>pour</hi> tout ce Dieu <hi>liſes</hi> tout ce que Dieu.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:153521:3"/>
+            <head>SERMON.</head>
+            <epigraph>
+               <bibl>Pſal. LV. verſ. 8.</bibl>
+               <q>Eternel je celebrerai ton Nom, parce qu'il eſt bon.</q>
+            </epigraph>
+            <p>LE Ciel a répondu à la Terre. Que la Terre réponde au Ciel. Nous avons crié à notre Dieu pendant la guerre, &amp; nous n'avons pas crié inutilement. Ses oreilles ont eſté attentives à la voix de nos Supplications, &amp; ſa main, ſa bonne main nous a don<g ref="char:EOLhyphen"/>né la Paix. Elle faiſoit l'objet de nos ſouhaits. Qu'elle ſoit le ſujet de nos benedictions, &amp; de nos louanges. C'eſt à quoy la Pieté
+<pb n="2" facs="tcp:153521:4"/> du Roy nous appelle aujourd'huy ſolemnellement, par ſes ordres, &amp; par ſon exemple. <hi>Ouvrés moy,</hi> a dit ce Religieux Monarque, comme autrefois le Roy ſelon le coeur de Dieu; <hi>Ouvres moy les portes de Ju<g ref="char:EOLhyphen"/>ſtice:</hi> 
+               <note place="margin">Pſal. 118. 19, 20.</note> J'y entreray pour y celebrer l'Eternel, &amp; les Juſtes y entreront avec moi. Dans ce moment il eſt proſterné aux pieds du ſouverain Arbitre de toutes choſes. Son ame ſe répand en actions de graces devant Dieu. Il le benit de ce qu'il lui a pleu d'exaucer ſes voeux, &amp; de couronner ſes travaux, en faiſant ſucceder aux horreurs d'une longue Guerre, les douceurs d'une Paix glorieuſe. Joignons nos coeurs avec le Sien. Que chacun de nous prenne; Que chacun de nous execute religieuſement la Sainte réſolution, que David ex<g ref="char:EOLhyphen"/>primoit lorſqu'il diſoit a Dieu dans notre Texte, <hi>Eternel je cele<g ref="char:EOLhyphen"/>brerai</hi>
+               <pb n="3" facs="tcp:153521:4"/> 
+               <hi>ton Nom, parce qu'il eſt bon.</hi>
+            </p>
+            <p>Ces paroles ſont tirées d'un Pſeaume, qui eſt tout enſemble un Cantique de Priere; &amp; d'A<g ref="char:EOLhyphen"/>ction de graces. Le titre nous en fait voir l'occaſion. David fuyant la perſecution de Saul, ſe réfugia dans le deſert de Ziph. Les habitans de ces quartiers en donnerent avis a ce Roy, &amp; luy promirent de faire tomber Da<g ref="char:EOLhyphen"/>vid entre ſes mains, s'il vouloit l'aller chercher. Saul ravi de cette nouvelle, &amp; de cette offre, ſe mit en campagne. Mais Da<g ref="char:EOLhyphen"/>vid inſtruit de ce qui ſe paſſoit, ſe retira dans une montagne au deſert de Mahon. Saul le pour<g ref="char:EOLhyphen"/>ſuivit, &amp; bien toſt ſes troupes l'environnerent, de ſorte qu'il ne pouvoit plus echapper. Dans une ſi grande extremité, il im<g ref="char:EOLhyphen"/>plora le ſecours de Dieu. <hi>O Dieu,</hi>
+               <pb n="4" facs="tcp:153521:5"/> dit il, <hi>Delivre moy par ton Nom, &amp; me fais droit par ta puiſſance,</hi> Sa <note place="margin">Ver. 3.</note> Priere fut exaucée. Dans le temps qu'il ſe trouva ſi fort reſſerré qu'il lui eſtoit impoſſible de fuir da<g ref="char:EOLhyphen"/>vantage, Saul apprit que les Philiſtins etoient entrés dans ſon pays, <q>&amp; il jugea plus à propos d'aller repouſſerces ennemis pub<g ref="char:EOLhyphen"/>lics &amp; ſi redoutables, que de leur laiſſer ſon Royaume en proye, en s'opiniaſtrant a pourſuivre un ennemi particulier, &amp; qu'il n'a<g ref="char:EOLhyphen"/>voit pas tant de ſujet de crain<g ref="char:EOLhyphen"/>dre.</q> Alors David ſorti d'un pe<g ref="char:EOLhyphen"/>ril qui ſembloit inevitable, chan<g ref="char:EOLhyphen"/>gea ſes Prieres en Actions de Graces. <hi>O Dieu,</hi> s'eſcria til, <hi>je te ferai ſacrifice de bon coeur, E<g ref="char:EOLhyphen"/>ternel je celebrerai ton Nom parce qu'il eſt bon, car il m'a delivré de toute detreſſe, &amp; mon oeil a veu ce qu'il vouloit voir ſur mes enne<g ref="char:EOLhyphen"/>mis.</hi>
+            </p>
+            <pb n="5" facs="tcp:153521:5"/>
+            <p> L'occaſion de notre Texte eſt donc fort differente, de celle qui excite aujourd'huy notre recon<g ref="char:EOLhyphen"/>noiſſance. Bien loin que ceux avec qui nous avions la guerre nous euſſent environnés, à parler humainement ils avoient plus de ſu<g ref="char:EOLhyphen"/>jet que nous d'en apprehender les ſuittes. Auſſi ont ils eſté les pre<g ref="char:EOLhyphen"/>miers à rechercher la Paix, &amp; nous pourrions nous vanter de la leur avoir donnée, s'il ne fa<g ref="char:EOLhyphen"/>loit pas avouer qu'elle leur coute cher. Mais quoy que noſtre e<g ref="char:EOLhyphen"/>ſtat, fuſt fort different de celuy ou David ſe trouvoit, lorſqu'il compoſa ce cantique, nous pou<g ref="char:EOLhyphen"/>vons pourtant emprunter ce que nous en avons leu, puiſqu'il ex<g ref="char:EOLhyphen"/>prime une partie, de ce que nous devons faire a l'egard de Dieu. La guerre qu'il a terminée, étoit un mal en elle meſme. Beniſ<g ref="char:EOLhyphen"/>ſons donc ſa bonté qui nous en
+<pb n="6" facs="tcp:153521:6"/> a délivrés, quoi que ce fuſt un plus grand mal, pour nos enne<g ref="char:EOLhyphen"/>mis que pour nous.</p>
+            <p>Afin de vous y aider autant que nous le pouvons, nous di<g ref="char:EOLhyphen"/>viſerons notre diſcours en trois parties. Dans la premiere nous verrons le deſſein du Pſalmiſte, <hi>Eternel,</hi> dit il, <hi>je celebrerai ton Nom.</hi> Dans la ſeconde nous con<g ref="char:EOLhyphen"/>ſidererons le fondement qu'il luy donne, en ajoutant <hi>parce qu'il eſt bon.</hi> Enfin dans la troiſiéme nous montrerons: Qu'il faut nous ac<g ref="char:EOLhyphen"/>quitter de ce devoir, en général pour toutes les faveurs de Dieu, &amp; en particulier pour celle qui fait la ſolemnité de ce jour. Com<g ref="char:EOLhyphen"/>me il y a un Eſprit de Priere, il y a auſſi un Eſprit de Recon<g ref="char:EOLhyphen"/>noiſſance. Dieu qui en eſt la ſource, veuille que nous en ſoy<g ref="char:EOLhyphen"/>ons ſi bien animés, que penetrés de reconnoiſſance pour tous les
+<pb n="7" facs="tcp:153521:6"/> biens dont nous lui ſommes re<g ref="char:EOLhyphen"/>devables, &amp; particulierement pour la Paix qu'il a donné a cet Etat; Il nous conſerve ces biens &amp; les augmente; Il affermiſſe cette Paix, &amp; l'accompagne de ſes plus pre<g ref="char:EOLhyphen"/>cieuſes benedictions. <hi>Amen.</hi>
+            </p>
+            <p>Le deſſein que David forme lors qu'il dit, <hi>Eternel je celebrerai ton Nom,</hi> eſt une partie eſſentielle de la reconnoiſſance qu'on doit a<g ref="char:EOLhyphen"/>voir pour Dieu,&amp; la premiere qui ſe preſente a l'eſprit. Pour rem<g ref="char:EOLhyphen"/>plir ce devoir il ſaut avant toutes choſes, louer Dieu, luy donner la gloire de tous les biens dont on jouyt, le regarder dans le fond de ſon coeur, &amp; le faire regarder aux autres par des aveus publics, &amp; des declarations ſolemnelles, comme l'unique ſource, comme le ſeul autheur de tout ce que l'on poſſede de bon, dans la vie naturelle dans la vie civile &amp; dans la vie
+<pb n="8" facs="tcp:153521:7"/> religieuſe. Il faut n'attribuer ri<g ref="char:EOLhyphen"/>en, ni a ſon merite, ni a ſon a<g ref="char:EOLhyphen"/>dreſſe, ni meſme a ce qu'on ap<g ref="char:EOLhyphen"/>pelle les cauſes ſecondes: Mais tout abſolument à la puiſſance &amp; à la bonté de Dieu. De ſorte que ſi on a travaillé à l'acquiſiti<g ref="char:EOLhyphen"/>on, ou à la conſervation de quel<g ref="char:EOLhyphen"/>que choſe, on ne ſe regarde que comme un inſtrument, dont il a pleu à la main de Dieu de ſe ſer<g ref="char:EOLhyphen"/>vir.</p>
+            <p>Les gens du monde penſent ici tout autrement. Dieu eſt par tout, &amp; ils ne le trouvent nulle part. Demandés leur d'ou vien<g ref="char:EOLhyphen"/>nent leurs heureux ſuccés. Ils vous répondront, que c'eſt de leur Prudence, de leur valeur, de tout ce qu'on voudra pluſtoſt que de Dieu, juſques à les attribuer à des chimeres, comme ce qu'ils appel<g ref="char:EOLhyphen"/>lant le ſort des armes, le hazard, la fortune, termes qui pris d'une
+<pb n="9" facs="tcp:153521:7"/> certaine maniere, peuvent avoir un bon ſens, quoi que mal ex<g ref="char:EOLhyphen"/>primé, mais qui dans leur bouche, &amp; ſelon leurs principes ne ſont que de vains noms, qui ne ſignifient rien. Au lieu qu'ils devroient répondre, que ces heureux ſuccés ne viennent que de Dieu. Il n'eſt pas ſeulement la grande cauſe de coutes choſes. Il en eſt encore la ſeule cauſe.</p>
+            <p>Les Creatures quelles qu'elles ſoient, ne ſont appellées des cauſes ſecondes que fort improprement. Car au fonds quelque part qu'il ſemble qu'elles ayent en ce qui arrive dans le monde, elles ne ſont pourtant que des inſtrumens en la main de Dieu, qui n'ont d'efficace, que parce qu'il luy plaiſt de leur en donner en s'en ſervant. Ce ne ſont point elles qui agiſ<g ref="char:EOLhyphen"/>ſent, c'eſt Dieu qui agit par elles. Lors meſme qu'on en void ſortir
+<pb n="10" facs="tcp:153521:8"/> les effets les plus naturels, toute leur vertu, toute leur force doit eſtre attribuée a l'inviſible main de Dieu, qui exerce ſa puiſſance par leur moyen, ou pluſtoſt à leur occaſion. Leur action peut elle avoir d'autre principe que celuy de leur exiſtence? Puis donc qu'<g ref="char:EOLhyphen"/>elles n'exiſtent que par la puiſſance de Dieu, qui le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a tirées du neant, &amp; qui les conſerve, n'eſt il pas evident quelles n'agiſſent que par cette meſme puiſſance de Dieu? Et de l'impoſſibilité ou ſont toutes le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> creatures de rien faire par elles meſmes, que faut il conclurre, ſi ce n'eſt que quelque avantage que nous en retirions, nous ne devons jamais nous y arreſter, mais qu'il faut tousjours remonter juſques a Dieu, pour luy en donner toute la gloire, parce qu'eſtant la grande cauſe ou pour parler plus juſte la ſeule cauſe de tout, les autres
+<pb n="11" facs="tcp:153521:8"/> eſtres n'ont d'efficace pour nous, qu'autant qu'il plaiſt a Dieu de les benir, c'eſt a dire de les ac<g ref="char:EOLhyphen"/>compagner de ſa puiſſance en notre faveur, ſans quoy ils nous ſeroient abſolument inutiles?</p>
+            <p>C'eſt de quoy le raiſonnement tout ſeul eſt capable de nous con<g ref="char:EOLhyphen"/>vaincre. Mais parce que c'eſt icy une matiere ou la gloire de Dieu eſt eſſentiellement intereſſée, &amp; que les hommes ont naturellement un grand penchant à s'y tromper, il n'a pas voulu nous abandonner là deſſus a nos lumieres, &amp; peut eſtre n'eſt il rien qui ſoit plus ſou<g ref="char:EOLhyphen"/>vent, &amp; plus clairement eſtabli dans les ecrits Sacrés. Ne nous arreſtons pas à montrer par ces Ecrits, que Dieu fait tout dans la nature &amp; dans la grace. Ne parlons que de ce qui regarde la Societé. Le Pſalmiſte nous ap<g ref="char:EOLhyphen"/>prend que c'eſt Dieu qui fait tout
+<pb n="12" facs="tcp:153521:9"/> ce qui ſe rapporte a la vie civile, puis qu'il nous declare que ſans ſa benediction, tous les efforts des hommes a cet egard ne ſauroient avoir de ſucces. <hi>Si l'Eternel,</hi> dit il, <hi>ne baſtit la maiſon, ceux qui la baſtiſſent travaillent en vain. Si l'Eternel ne garde la ville, celuy</hi> 
+               <note place="margin">Pſa. 127 1, 2.</note> 
+               <hi>qui la garde fait le guet inutile<g ref="char:EOLhyphen"/>menc, c'eſt en vain que vous vous levés, de bon matin, que vous dif<g ref="char:EOLhyphen"/>ferés de vous repoſer; &amp; que vous mangés le pain de douleur. Dieu donne le repos a celuy qu'il aime.</hi>
+            </p>
+            <p>L'Ecriture nous fait voir en particulier, que Dieu preſide ſur la guerre, qu'il la fait naitre, qu'il l'entretient; qu'il la termine com<g ref="char:EOLhyphen"/>me il luy plaiſt. Elle l'appelle l'Eternel de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Armées, <hi>Puiſſant en bataille, Je ſuis l'Eternel,</hi> dit il luy meſme dans le livre d'Eſaye, <hi>Et il n'y en a point d'autre qui forme la lumiere &amp; qui cr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e les tenebres</hi>
+               <pb n="13" facs="tcp:153521:9" rendition="simple:additions"/> 
+               <hi>qui fait la paix &amp; qui cree l'ad<g ref="char:EOLhyphen"/>verſite.</hi> 
+               <note place="margin">Ch 45. 6, 7.</note> 
+               <hi>C'eſt moy l'Eternel qui fais toutes ces choſes la.</hi> C'eſt les or<g ref="char:EOLhyphen"/>dres de Dieu que la victoire ſuit, &amp; non pas le nombre &amp; la va<g ref="char:EOLhyphen"/>leur des combattans. <hi>Le Roy,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> il dit dans le Pſeaume 33. <hi>Le Roy n'eſt point ſauvé par une groſſe ar<g ref="char:EOLhyphen"/>mee,</hi> 
+               <note place="margin">Ver. 16.</note> 
+               <hi>&amp; l'homme puiſſant n'echappe point par ſa grande force, noſtre</hi> 
+               <note place="margin">Ver. 20.</note> 
+               <hi>ame s'eſt attendue a l'Eternel, il eſt notre aide &amp; notre bouclier. Le cheval,</hi> dit Salomon, <hi>Eſt equippé pour le jour de la bataille, mais la</hi> 
+               <note place="margin">Prov. 21 31.</note> 
+               <hi>delivrance,</hi> c'eſt a dire la victoire <hi>eſt de l'Eternel.</hi>
+            </p>
+            <p>Une infinité d'experiences con<g ref="char:EOLhyphen"/>firment des declarations ſi expreſ<g ref="char:EOLhyphen"/>ſes. L'Hiſtoire Sainte &amp; l'Hiſtoire Prophane ſont pleines d'evenemens, qui font toucher au doigt que la Prudence &amp; la valeur des hommes, ne ſont pas les vrais principes de ce qui arrive dans le monde, puis
+<pb n="14" facs="tcp:153521:10"/> qu'on y void ſouvent arriver pre<g ref="char:EOLhyphen"/>ciſement le contraire de ce qu'on devoit attendre, de cette Prudence &amp; de cette valeur. Il faut donc tousjours laiſſer la terre, &amp; s'eſle<g ref="char:EOLhyphen"/>ver juſqu'au Ciel, pour y adorer la main de Dieu, &amp; attribuer tout a ſa ſageſſe, &amp; a ſa puiſſance.</p>
+            <p>Ne concluons pourtant pas, que tout ce que les hommes font pour reuſſir dans leurs deſſeins ſoit inu<g ref="char:EOLhyphen"/>tile, mais concluons qu'il le ſeroit, ſi Dieu n'y repandoit pas ſa bene<g ref="char:EOLhyphen"/>diction. Ils viennent d'ordinaire a bout de leurs entrepriſes, lors qu'ils ſuivent de bons conſeils, qu'ils tiennent une conduitte Sage, &amp; qu'ils employent des moyens, qui ont du rapport avec les fins qu'ils ſe propoſent. Mais d'ou vient tout cela? C'eſt de Dieu qui voulant les faire reuſſir par des voyes naturelles, leur inſpire ces bons conſeils, leur fait tenir cette
+<pb n="15" facs="tcp:153521:10"/> Sage conduitte, leur fournit ces moyens propres, &amp; les benit en les accompagnant de ce degré de ſa puiſſance, qui entraine tousjours apres ſoy d'heureux ſuccés. Au<g ref="char:EOLhyphen"/>trement les meſures les mieux priſes, les projets les mieux con<g ref="char:EOLhyphen"/>aeus &amp; les mieux conduits, tout en un mot ſe reduit en fumée. <hi>Vous Peuples,</hi> dit Eſaye, <hi>Alliés vous, &amp; ſoyés froiſſés. Equippés vous, &amp; ſoyes froiſſés prenés conſeil, &amp; il ſera diſſipé. Dites la parole, &amp; elle n'aura point d'effet. Car le Dieu fort eſt avec nous.</hi>
+            </p>
+            <p>Cette verité eſt ſi ſenſible que les Romains; Eux qui porterent l'orgueil humain a ſon comble, n'avoient baſti aucun Temple ni a la Prudence ni a la valeur. Mais ils en avoient elevé un Mag<g ref="char:EOLhyphen"/>nifique a la Fortune, pour de<g ref="char:EOLhyphen"/>clarer par là, qu'ils attribuoient tout leur bonheur, non a la ſa<g ref="char:EOLhyphen"/>geſſe
+<pb n="16" facs="tcp:153521:11"/> de leurs conſeils, non au courage de leurs ſoldats, mais uniquement aux ſoins de la Pro<g ref="char:EOLhyphen"/>vidence en leur faveur, car les Sages du Paganiſme entendoient la Providence, lors qu'ils parloient de la Fortune.</p>
+            <p>Qu'il y a de Chreſtiens contre qui ces Payens ſe leveront en Juge<g ref="char:EOLhyphen"/>ment! Mais l'exemple de David doit ſuffire pour les conſondre. En combien d'endroits ne void on pas ce vaillant Roy, ce grand Con<g ref="char:EOLhyphen"/>querant, benir Dieu de ſa Valeur &amp; de ſes Victoires? Il ſemble qu'il n'y avoit rien, qu'il peuſt s'attri<g ref="char:EOLhyphen"/>buer a plus juſte titre. Cepen<g ref="char:EOLhyphen"/>dant il en fait hommage a Dieu. Il luy en donne toute la gloire. Il reconnoit, il publie que Dieu luy a inſpiré la Prudence &amp; le Courage qu'il a fait eclatter en tant d'occaſions; que ſa bonté la conſervé dans tous les dangers
+<pb n="17" facs="tcp:153521:11"/> aux quels il a eſté expoſé; &amp; que ſa puiſſance l'a fait triompher, <hi>Be<g ref="char:EOLhyphen"/>nit ſoit l'Eternel mon rocher,</hi> dit il, <hi>lequel dreſſe mes mains au combat</hi> 
+               <note place="margin">Pſal. 144. 1, 2.</note> 
+               <hi>&amp; mes doigts a la bataille. Qui deploye ſa faveur envers moy, ma fortereſſe, ma haute retraitte, mon liberateur, mon bouclier. Je me ſuis retiré vers luy. Il range mon peuple ſous moy.</hi> Ce qu'il dit là de ſa va<g ref="char:EOLhyphen"/>leur &amp; de ſes victoires, c'eſt ce qu'il dit ailleurs de tous les autres avantages qu'il poſſedoit.</p>
+            <p>Afin donc d'offrir a Dieu le Sa<g ref="char:EOLhyphen"/>crifice d'une vraye reconnoiſſance, il faut luy offrir ce que le St. Eſ<g ref="char:EOLhyphen"/>prit <note place="margin">Oſee 14. 2.</note> appelle <hi>le bouveau des levres,</hi> 
+               <note place="margin">Hebr. 13. 15.</note> 
+               <hi>un Sacrifice de louange en celebrant ſon Saint Nom.</hi> Sacrifice qui faſſe connoitre que bien loin <hi>d'encenſer</hi> 
+               <note place="margin">Habac 1<g ref="char:punc">▪</g> 16.</note> 
+               <hi>a ſes rets &amp; a ſes filés,</hi> comme parle l'Ecriture, on ſe croid ab<g ref="char:EOLhyphen"/>ſolument redevable de tout ce que l'on poſſede de bon, à la puiſſance
+<pb n="18" facs="tcp:153521:12"/> &amp; a la bontè de Dieu. Il eſt vray que cette partie de la reconnoiſ<g ref="char:EOLhyphen"/>ſance toute eſſentielle qu'elle eſt, ne peut eſtre agreable a Dieu, ſi elle n'eſt accompagnèe de ces trois autres, de ſon amour du bon uſage de ſes graces, &amp; du ſoin d'obſer<g ref="char:EOLhyphen"/>ver ſes commandemens. Cepen<g ref="char:EOLhyphen"/>dant nous nous contenterons de les avoir indiquèes, parce qu'ou<g ref="char:EOLhyphen"/>tre que notre Texte ne nous y conduit qu'indirectement, leur diſ<g ref="char:EOLhyphen"/>cuſſion nous arreſteroit trop long temps. Ainfi nous paſſerons au fondement du deſſein de David. Il dit qu'il veut celebrer le Nom de Dieu <hi>parce qu'il eſt bon.</hi> L'Ex<g ref="char:EOLhyphen"/>amen de cette raiſon va faire no<g ref="char:EOLhyphen"/>tre ſecond Point.</p>
+            <p>On explique les dernieres pa<g ref="char:EOLhyphen"/>roles de notre Texte de deux ma<g ref="char:EOLhyphen"/>nieres, ſi naturelles &amp; ſi propres au deſſein du Pſalmiſte, que nous les embraſſerons toutes deux. Le
+<pb n="19" facs="tcp:153521:12"/> premier ſens qu'on leur donne les rapporte a la celebration du Nom de Dieu, comme ſi le Prophete diſoit <hi>Eternel je celebreray ton Nom parce qu'il eſt bon que je le faſſe.</hi> Ce ſens ſe trouve clairement ex<g ref="char:EOLhyphen"/>primè en d'autres endroits des Pſeaumes. <hi>C'eſt une choſe bonne de celebrer l'Eternel,</hi> eſt il dit au Pſau. 92. &amp; au 147. <hi>Loues l'Eternel car c'eſt une bonne choſe que de Pſalmo<g ref="char:EOLhyphen"/>dier a notre Dieu.</hi>
+            </p>
+            <p>Pour etablir la bontè de la re<g ref="char:EOLhyphen"/>connoiſſance envers Dieu, dont la celebration de ſes louanges eſt une des principales parties, il ſuffiroit de dire, qu'il nous la preſcrit a tous momens dans ſa parole. Tout ce que Dieu commande eſt bon, par cela meſme qu'il le comman<g ref="char:EOLhyphen"/>de, &amp; puis que nous dependons abſolument de ſes Loix, il eſt bon, il eſt juſte, il eſt neceſſaire que nous executions tout ce qu'il nous
+<pb n="20" facs="tcp:153521:13"/> ordonne. Quand donc notre re<g ref="char:EOLhyphen"/>connoiſſance pour Dieu, ne ſeroit ſondée que ſur ſon bon plaiſir, il n'en faudroit pas d'avantage pour nous convaincre de la bontè, c'eſt a dire de la juſtice de ce devoir, &amp; par conſequent de la neceſſitè ou nous ſommes de nous en a<g ref="char:EOLhyphen"/>quitter. Ainſi les Sacrifices d A<g ref="char:EOLhyphen"/>ctions de Graces ſous l'ancienne loy, eſtoient neceſſaires pour ceux qui pouvoient les offrir. Ils ne l'étoient pas dans leur nature. C'eſt pourquoy Dieu a peu les abroger ſous l'Evangile. Mais pendant que le Miniſtere de Moyſe ſubſiſtoit, Dieu les commandoit. C'eſtoit aſſès. Il eſtoit bon de les luy preſenter. Il le faloit, &amp; il n'y avoit que la ſeule impuiſſance qui peuſt excuſer ceux qui y man<g ref="char:EOLhyphen"/>quoient.</p>
+            <p>Mais ce qu'il y a tousjours eu de moral dans la reconnoiſſance
+<pb n="21" facs="tcp:153521:13"/> pour Dieu, a ce grand avantage ſur ce qu'il y avoit autrefois de ceremoniel, qu'il n'a pas ſeule<g ref="char:EOLhyphen"/>ment une bontè de precepte &amp; d'inſtitution. Il a encore une bontè naturelle &amp; eſſentielle. Il n'eſt pas fondè ſur une volontè arbitraire de Dieu. Il tire ſon origine d'un droit naturel, eternel, neceſſaire, indiſpenſable en luy meſme. De ſorte que c'eſt un de<g ref="char:EOLhyphen"/>voir de la Religion naturelle, qui a tousjours ſubſiſtè, &amp; qui ſubſiſte<g ref="char:EOLhyphen"/>ra tousjours inviolablement. Com<g ref="char:EOLhyphen"/>me Dieu eſt le Principe de toutes choſes, il en eſt auſſi la Fin, <hi>Par</hi> 
+               <note place="margin">Rom. 11. 36.</note> 
+               <hi>luy &amp; pour luy ſont toutes choſes</hi> dit St. Paul. Il eſt l'eſtre ſouve<g ref="char:EOLhyphen"/>rain, &amp; par conſequent la fin ſou<g ref="char:EOLhyphen"/>veraine de tout, meſme de ſes propres actions. Il faut donc que tous les biens que ſa bontè ſe plaiſt a rèpandre ſur les hommes, retour<g ref="char:EOLhyphen"/>nent des hommes a Dieu, comme
+<pb n="22" facs="tcp:153521:14"/> les fleuves r'entrent dans la mer d'ou ils tirent leur origine. Mais parce que ces biens ne peuvent re<g ref="char:EOLhyphen"/>tourner a Dieu dans leur ſubſtance, a cauſe de l'excellence de ſa na<g ref="char:EOLhyphen"/>ture, il faut qu'ils y retournent d'une maniere morale, par les be<g ref="char:EOLhyphen"/>nedictions, par les louanges, en un mot par la reconnoiſſance de ceux qu'il en a fait participans.</p>
+            <p>A cette double bontè, de pre<g ref="char:EOLhyphen"/>cepte &amp; de nature, ajoutons en une troiſiéme, qui ſera une bontè d'utilitè. Il eſt bon de celebrer le Nom de Dieu, de luy offrir le Sacrifice de la reconnoiſſance, par<g ref="char:EOLhyphen"/>ce qu'il n'eſt rien de plus avanta<g ref="char:EOLhyphen"/>geux. C'eſt non ſeulement un moyen neceſſaire, pour conſerver les biens qu'on a deja obtenus de Dieu, mais encore un ſecret in<g ref="char:EOLhyphen"/>faillible pour en obtenir d'autres. St. Paul diſoit ſur ce principe, <hi>Perſeverès en priere, veillans en</hi> 
+               <note place="margin">Colloſſ. 4. 2.</note>
+               <pb n="23" facs="tcp:153521:14"/> 
+               <hi>elle avec actions de graces.</hi> Il veut dire que le grand moyen d'eſtre exaucé pour l'avenir, c'eſt d'eſtre reconnoiſſant pour le paſſè. Ouy la reconnoiſſance eſt ſi agre<g ref="char:EOLhyphen"/>able a Dieu, que pour l'amour d'elle il ne manque jamais, de cou<g ref="char:EOLhyphen"/>ronner ſes premiers bienfaits par de nouvelles faveurs.</p>
+            <p>D'ailleurs comme c'eſt par la reconnoiſſance, que les hommes glorifient Dieu autant qu'ils le peu<g ref="char:EOLhyphen"/>vent, c'eſt auſſi a cette vertu en particulier qu'il deſtine ſa gloire. Toutes les vertus viennent du ciel. Toutes les vertus nous y condui<g ref="char:EOLhyphen"/>ſent. Mais elles n'y entreront pas toutes avec nous. La ſoy, l'eſpe<g ref="char:EOLhyphen"/>rance &amp; la patience, demeureront pour ainſi dire à la porte, ou plus<g ref="char:EOLhyphen"/>toſt elles ſeront changèes, la ſoy en veue, l'eſperance en poſſeſſion, la patience en triomphe. Mais la reconnoiſſance encore mieux que
+<pb n="24" facs="tcp:153521:15"/> la charité ſera introduitte dans le ciel, en ſa propre nature. Tout le changement qui luy arrivera, c'eſt quelle ſera miſe dans ſa per<g ref="char:EOLhyphen"/>fection. Louer donc Dieu ſur la terre, c'eſt en quelque maniere anticiper la felicité celeſte, puiſque c'eſt faire icy bas, ce qui fera là haut dans le ciel l'occupation eter<g ref="char:EOLhyphen"/>nelle des Anges, &amp; des Saints glo<g ref="char:EOLhyphen"/>rifiés. Que David avoit donc bi<g ref="char:EOLhyphen"/>en raiſon de dire. <hi>Eternel je ce<g ref="char:EOLhyphen"/>lebreray ton Nom, parce qu'il eſt bon</hi> en prenant ces dernieres pa<g ref="char:EOLhyphen"/>roles comme s'il diſoit, <hi>parce qu'il eſt bon que je le faſſe.</hi>
+            </p>
+            <p>Le ſecond ſens qu'on leur donne le rapport au Nom de Dieu qui les precede immediatement. Com<g ref="char:EOLhyphen"/>me ſi le Prophete diſoit, <hi>Eternel je celebreray ton Nom parce que ton Nom eſt bon.</hi> Ce ſens ſe trouve auſſi clairement exprimé en plu<g ref="char:EOLhyphen"/>ſieurs endroits des Pſeaumes, &amp; il
+<pb n="25" facs="tcp:153521:15" rendition="simple:additions"/> y regne beaucoup plus que le pre<g ref="char:EOLhyphen"/>mier. <hi>Celebrés l'Eternel d'autant qu'il eſt bon, &amp; que ſa gratitude de<g ref="char:EOLhyphen"/>meure a tousjours,</hi> rien n'eſt plus fre<g ref="char:EOLhyphen"/>quent dans les Sacrés Cantiques.</p>
+            <p>C'eſt icy le grand fondement de la reconnoiſſance envers Dieu, connu de tous ceux qui n'ont pas eſté aſſés aveuglés pour nier une Providence, qui ordonne ſouve<g ref="char:EOLhyphen"/>rainement, de tout ce qui arrive dans le monde. Ils ont tous eu aſſés de lumiere pour voir que comme on doit aller a Dieu par des Prieres, pour implorer ſa bonté, il faut auſſi retourner a luy par des actions de graces, pour tous les biens dont on jouit<g ref="char:punc">▪</g> Si ces biens avoient quelque autre ſource que ſa bonté, il ſeroit obligé de les don<g ref="char:EOLhyphen"/>ner, ſans qu'on fuſt obligé de les luy demander, ou tout au plus on ne devroit ſolliciter que ſa Juſtice. Puis donc que la nature nous dicte,
+<pb n="26" facs="tcp:153521:16"/> que nous devons recourir a la bonté de Dieu, pour en obtenir les choſes qui nous ſont neceſſaires, elle nous convainc en meſme temps, que de<g ref="char:EOLhyphen"/>venans redevables à cette bonté par leur poſſeſſion, nous devons luy en faire hommage, l'en benir, luy en temoigner notre reconnoiſ<g ref="char:EOLhyphen"/>ſance, autant que nous en ſommes capables.</p>
+            <p>Nous ſerons encore plus frappés de la conſequence qu'il y a, entre la bonté de Dieu envers nous, &amp; notre reconnoiſſance envers Dieu, ſi nous la conſiderons cette bonté, par rapport a notre indignité natu<g ref="char:EOLhyphen"/>relle, &amp; par rapport à celle que nous avons contracté par nos crimes. Nous devons eſtre recon<g ref="char:EOLhyphen"/>noiſſans envers Dieu parce qu'il eſt bon envers nous nonobſtant notre indignité naturelle. Qu'eſt ce que Dieu eſt qu'eſt ce que nous ſommes? Dieu eſt l'etre inſiniment
+<pb n="27" facs="tcp:153521:16"/> parfait l'eſtre des eſtres. Son ex<g ref="char:EOLhyphen"/>cellence ſurpaſſe infiniment l'intel<g ref="char:EOLhyphen"/>ligence des Anges. Il eſt le crea<g ref="char:EOLhyphen"/>teur &amp; le gouverneur de l'univers, Le Monarque ſouverain du ciel &amp; de la terre. L'un eſt ſon Troſne. L'Autre eſt le marchepied de ſes pieds. Et nous que ſommes nous? Diſons le en un mot apres le St. Eſprit, <hi>
+                  <g ref="char:V">Ʋ</g>n neant devant Dieu.</hi> 
+               <note place="margin">Pſ. 62. 10.</note> Quand meſme nous ſerious les plus excellentes de toutes les creatures, point de proportion entre ſon infi<g ref="char:EOLhyphen"/>nie grandeur, &amp; notre extreme baſ<g ref="char:EOLhyphen"/>ſeſſe. Cependant cet eloignement infini qu'il y a entre Dieu &amp; nous. Dieu le traverſe les mains pleines de graces pour nous en combler. Une ſi immenſe bonté n'eſt elle pas bien digne de notre reconnoiſſance, de toute notre reconnoiſſance? <hi>O</hi> 
+               <note place="margin">Pſal. 144. 3.</note> 
+               <hi>Dieu qu'eſt ce que de l'homme que tu aye ſoin de luy? Du fils de l'homme mortel que tu en tiennes compte.</hi>
+            </p>
+            <pb n="28" facs="tcp:153521:17"/>
+            <p> Cette indignité eſt inſeparable de la nature de tous les eſtres cré<g ref="char:EOLhyphen"/>és. Elle eſt donc innocente quel<g ref="char:EOLhyphen"/>que grande qu'elle ſoit. Mais nous en avons une autre qui eſt crimi<g ref="char:EOLhyphen"/>nelle. C'eſt celle que nous avons contracté, &amp; que nous augmen<g ref="char:EOLhyphen"/>tons tous les jours, par les pechés que nous commettons inceſſam<g ref="char:EOLhyphen"/>ment, contre la Majeſté de Dieu. Voicy ſans doute le plus grand motif qui doit enflammer notre reconnoiſſance pour luy. C'eſt comme nous l'avons dit un devoir de la Religion naturelle. Par con<g ref="char:EOLhyphen"/>ſequent c'eſt un devoir, qui doit eſtre pratiqué par toutes les crea<g ref="char:EOLhyphen"/>tures intelligentes. Mais que cet<g ref="char:EOLhyphen"/>te obligation va bien plus loin pour les creatures pechereſſes que pour les autres! Adam innocent devoit eſtre reconnoiſſant envers Dieu dans le Paradis terreſtre. Les An<g ref="char:EOLhyphen"/>ges elus, doivent l'eſtre encore
+<pb n="29" facs="tcp:153521:17" rendition="simple:additions"/> d'avantage dans le Paradis celeſte. Mais nous, nous ſerons des ingrats ſi notre reconnoiſſance ne ſurpaſſe celle d'Adam innocent, &amp; celle des Saints Anges.</p>
+            <p>Il n'y avoit rien en Adam in<g ref="char:EOLhyphen"/>nocent qui offencaſt Dieu. Il n'y a rien de cette nature dans les Saints Anges. Au lieu que cou<g ref="char:EOLhyphen"/>verts de la lepre criminelle de peché, tout ce Dieu void en nous, le cho<g ref="char:EOLhyphen"/>que, l'outrage, l'irrite &amp; luy met la foudre a la main. Mais infiniment meilleur pour nous que le Pere le plus tendre ne ſauroit l'eſtre pour ſes enfans, il n'ecoute ni les droits de ſa Juſtice, ni l'enormité de nos pechés. Il ne preſte l'oreille qu'a la voix du ſang de ſon fils notre Redempteur, qui luy crie grace pour nous. Et bien loin de de<g ref="char:EOLhyphen"/>charger ſur nos teſtes criminelles <hi>les treſors de colere que nous nous ſom<g ref="char:EOLhyphen"/>mes</hi> 
+               <note place="margin">Rom. 2. 5.</note> 
+               <hi>amaſſés,</hi> il répand abondam<g ref="char:EOLhyphen"/>ment
+<pb n="30" facs="tcp:153521:18"/> ſur nous <hi>les richeſſes de ſa benignité.</hi> Ne ſerions nous pas donc des monſtres d'ingratitude, ſi nos ames n'eſtoient penetrées de reconnoiſſance pour Dieu, puiſqu'il eſt ſi bon ſi miſericordieux envers nous, que malgré nos rebellions continuelles, il ne laiſſe pas de nous combler ſans ceſſe de ſes fa<g ref="char:EOLhyphen"/>veurs? Aprés cela qui ne diroit avec David. <hi>Eternel je celebreray ton Nom, parce qu'il eſt bon,</hi> parce que <hi>tu es infiniment bon?</hi> Il faut nous acquitter de ce devoir en ge<g ref="char:EOLhyphen"/>neral pour tous les biens dont Di<g ref="char:EOLhyphen"/>eu nous fait jouir, &amp; en particulier pour ceux qui font la ſolemnité de ce jour, c'eſt ce que nous allons montrer dans notre troiſiéme par<g ref="char:EOLhyphen"/>tie qui fera auſſi la concluſion de ce Diſcours.</p>
+            <p>Quoy que ce jour ſoit deſtiné, à rendre ſolemnellement a Dieu nos actions de graces pour la Paix,
+<pb n="31" facs="tcp:153521:18"/> notre reconnoiſſance doit pourtant s'eſtendre aujourd'huy, ſur tous les biens que la bonté de Dieu daigne nous communiquer. Il en eſt de cette vertu comme de la repen<g ref="char:EOLhyphen"/>tance, qui bien qu'elle ſoit excitée par quelque peché particulier, ne laiſſe pas de les comprendre tous en general. Voyés le dans le Pſ. 51. David n'y parle pas ſeulement de ces peches ſur leſquels le Prophete Nathan avoit reveillé ſa conſcience. Sa repentance s'eſtend ſur tous les autres. <hi>O Dieu s'eſcrie t'il detourne la face de deſſus mes pechés &amp; efface toutes mes iniquités.</hi> Ainſi une vraye reconnoiſſance ne s'arreſt jamais au bien preſent qui l'excite. Elle ſe dilate, elle porte ſes mou<g ref="char:EOLhyphen"/>vemens ſur tous les autres biens decoulés de la meſme ſource, &amp; pour ainſi dire elle ſe promene, elle vole de toutes parts dans l'im<g ref="char:EOLhyphen"/>menſité des bienfaits de Dieu, pour
+<pb n="32" facs="tcp:153521:19"/> en comprendre autant qu'il ſe peut <hi>la longueur &amp; la largeur, la hauteur</hi> 
+               <note place="margin">Epheſ. 3. 8.</note> 
+               <hi>&amp; la profondeur.</hi>
+            </p>
+            <p>Nous ne ſommes d'ordinaire ſen<g ref="char:EOLhyphen"/>ſibles qu'aux avantages qui nous ſont particuliers. Les autres ne nous touchent point, ou ne nous touchent que foiblement. Cepen<g ref="char:EOLhyphen"/>dant les plus communs meritent notre reconnoiſſance, auſſi bien que ceux dont nous jouiſſons, a l'excluſion des autres peuples ou des autres hommes. Il faut les regar<g ref="char:EOLhyphen"/>der du coté de leur diffuſion, par<g ref="char:EOLhyphen"/>ce que plus on void qu'ils ſe re<g ref="char:EOLhyphen"/>pandent ſur differens ſujets, &amp; plus doit on admirer la plenitude du fonds qui les produit. Mais en ſuitte il faut les regarder par rap<g ref="char:EOLhyphen"/>port au bonheur, qu'on a de les poſſeder en particulier. Qu'ils nous ſeroient ſenſibles, ſi nous mettions cette regle en pratique; ſi apres avoir conſideré ce qu'il y
+<pb n="33" facs="tcp:153521:19"/> a de general dans les merveilles de la nature, de la ſocieté, &amp; de la grace, nous les regardions d'une veue particuliere, comme des bi<g ref="char:EOLhyphen"/>ens qui ſont pour chacun de nous.</p>
+            <p>C'eſt pour moy diroit alors qui que ce ſoit, c'eſt pour moy que Dieu fait lever ſon ſoleil; qu'il couvre la terre de fruits; &amp; qu'il donne au pain la force de nourrir. C'eſt pour moy qu'il entretient la ſocieté, dans laquelle il me fait vivre; qu'il l'a delivrée de tels &amp; de tels dangers; qu'il y fait regner le repos &amp; la proſperité. C'eſt pour moy que Dieu a donné ſon fils; qu'il fait précher ſon Evan<g ref="char:EOLhyphen"/>gile; qu'il envoye ſon Eſprit; &amp; qu'il ouvre les treſors de ſa grace, &amp; de ſa gloire. Ouy c'eſt pour moy, puis que j'entre dans les deſ<g ref="char:EOLhyphen"/>ſeins de Dieu, lorſqu'il diſpenſe toutes ces faveurs. Comment en jouirois je, ſi elles n'eſtoient pas
+<pb n="34" facs="tcp:153521:20"/> pour moy? Et n'ay je pas le plai<g ref="char:EOLhyphen"/>ſir de les poſſeder, auſſi bien que ſi elles n'eſtoient que pour moy, puis que la part des autres ne me fait rein perdre, &amp; qu'il en reſte tousjours autant qu'il m'en faut, aſſés meſme pour fournir abon<g ref="char:EOLhyphen"/>damment aux beſoins de tout le monde? Il faut donc que j'en aye la meſme reconnoiſſance, que je me croirois obligé d'en avoir, ſi j'eſtois le ſeul pour qui Dieu les euſt deſtinées.</p>
+            <p>Il eſt vray que les biens de la grace demandent notre reconnoiſ<g ref="char:EOLhyphen"/>ſance, d'une voix plus forte que tous les autres, parce qu'ils conſti<g ref="char:EOLhyphen"/>tuent la vraye felicité. Sans eux on eſt tousjours miſerable, au lieu que quand on les poſſede on eſt tousjours heureux. Mais pour<g ref="char:EOLhyphen"/>tant les biens de la nature &amp; de la ſocieté, ne laiſſent pas de la meriter toute entiere. Il n'eſt pas meſme
+<pb n="35" facs="tcp:153521:20"/> juſques au moindre des bienfaits de Dieu, qui ne nous engage a toute la reconnoiſſance poſſible. L'ob<g ref="char:EOLhyphen"/>ligation a la reconnoiſſance, ſe prend pluſtoſt de la dignité du bi<g ref="char:EOLhyphen"/>enfaiteur, que du prix du bien fait conſideré en luy meſme. Et Dieu n'eſt il pas un bienfaiteur d'une dignité infinie? Il ſuffit donc qu'un bien quel qu'il ſoit parte de ſa main. Il acquiert par ſon ori<g ref="char:EOLhyphen"/>gine un degré infini d'excellence, qui ne demanderoit pas moins de nous, qu'une reconnoiſſance infi<g ref="char:EOLhyphen"/>nie, ſi nous eſtions capables d'une telle reconnoiſſance.</p>
+            <p>Jugés donc combien nous en devons eſtre penetrés, pour la Paix que Dieu a donné a cet Eſtat. La Paix eſt le fondement de tous les biens de la vie civile puiſque ſans elle on n'en ſauroit jouir avec plaiſir. Le moyen de les gouter, quand on eſt dans des alarmes con<g ref="char:EOLhyphen"/>tinuelles,
+<pb n="36" facs="tcp:153521:21"/> ou pour ſoy meſme, ou du moins pour une partie de ceux avec qui on eſt uni, ou de ſang ou d'amitié, ou d'intereſt, avec qui on compoſe un meſme corps de famille, ou de ſocieté? Graces a Dieu nous n'avons preſque connu les malheurs de la guerre que par relation, nous ne les avons ſentis que par compaſſion. La bonté divine nous en a garantis, &amp; nous a fait vivre tranquillement, pen<g ref="char:EOLhyphen"/>dant que tant de Sieges, &amp; de Batailles, ont rougi les terres, &amp; les mers de ſang humain, que tant de villes ont eſté pillées, ſaccagées, brulées, abymées, &amp; que tant de peuples ont eſté reduits a la der<g ref="char:EOLhyphen"/>niere miſere, tantoſt par ceux qui les attaquoient, &amp; tantoſt par ceux là meſme qui les defendoient. Que nous trouverions de douceur dans la Paix, ſi nous avions eprouvé les horreurs de la guerre!</p>
+            <pb n="37" facs="tcp:153521:21"/>
+            <p> Elle etoit pourtant juſte cette guerre de notre part, c'eſtoit un mal neceſſaire. Notre Roy auſſi equitable &amp; auſſi genereux que vaillant, n'avoit pas pris les armes pour agrandir ſes Etats aux dépens de ſes voiſins, ou pour arreſter par une jalouſe diverſion, les pro<g ref="char:EOLhyphen"/>grés qu'on faiſoit ſur l'ennemi du Nom Chreſtien. Des motifs plus nobles, plus dignes d'un Prince ſujet de J. C. l'engagerent a de<g ref="char:EOLhyphen"/>clarer la guerre. Il n'y entraina pas ſes Sujets, ils le ſolliciterent eux meſmes a l'entreprendre, pour ſe<g ref="char:EOLhyphen"/>courir ſes Alliés; pour aſſeurer la liberté Spirituelle, &amp; Temporelle, qu'il venoit de retablir dans ce Royaume, &amp; dont la conſervation demandoit, qu'il previnſt les deſſeins qu'on formoit, pour le faire deſcen<g ref="char:EOLhyphen"/>dre d'un trone abandonné, &amp; où il ſe trouvoit elevé par la juſte re<g ref="char:EOLhyphen"/>connoiſſance des peuples, dont il a<g ref="char:EOLhyphen"/>voit eſté le liberateur.</p>
+            <pb n="38" facs="tcp:153521:22"/>
+            <p> Loué ſoit Dieu qui l'a ſi bien con<g ref="char:EOLhyphen"/>duit par ſes conſeils, ſi bien ſoute<g ref="char:EOLhyphen"/>nu par ſa puiſſance, qu'il eſt ve<g ref="char:EOLhyphen"/>nu glorieuſement a bout d'une en<g ref="char:EOLhyphen"/>trepriſe ſi juſte, ſi grande, ſi difficile. Loué ſoit Dieu, qui beniſſant ſes negotiations, ſes veilles, ſes fatigues ſes travaux, luy a fait terminer une longue &amp; ſanglante guerre, par une Paix qui diſſipe les craintes de l'Eu<g ref="char:EOLhyphen"/>rope, qui aſſeure le bonheur de ſes Etats, &amp; qui eternizera la gloire de ſon regne. <hi>Seigneur nous t'en offrons de bon coeur le Sacrifice de nos actions de graces, nous en cele<g ref="char:EOLhyphen"/>brons ton grand Nom, nous en louons ta bonté infinie.</hi> Ouy c'eſt juſques a Dieu qu'il faut nous elever, pour trouver la ſource de cette Paix. Dieu en eſt l'autheur, notre Roy en a eſté l'inſtrument, &amp; c'eſt en ſui<g ref="char:EOLhyphen"/>vant cette idée que nous devons nous écrier, L'EPEE DE L'ETERNEL ET DE NOTRE GEDEON. <note place="margin">Jug. 7. 20.</note>
+            </p>
+            <pb n="39" facs="tcp:153521:22"/>
+            <p> C'eſt pour faire de grands ex<g ref="char:EOLhyphen"/>ploits par ſon moyen, que la Pro<g ref="char:EOLhyphen"/>vidence l'a fait naitre, &amp; qu'elle là formé. C'eſt pour cela que le Ciel luy a donné toutes les qua<g ref="char:EOLhyphen"/>lités, qui font un parfait Capitaine, un Heros achevé, un des plus grands Rois qui ayent jamais porté la couronne. Habile, penetrant, &amp; ſecret pour former de grands deſſeins. Sage, prompt, coura<g ref="char:EOLhyphen"/>geux pour les executer. Infatiga<g ref="char:EOLhyphen"/>ble dans les plus grands travaux. Intrepidè au milieu des plus grands dangers. Ferme, tousjours le meſme malgré les plus grands re<g ref="char:EOLhyphen"/>vers. Ses vertus Heroiques, &amp; Royales, l'ont tousjours fait regner dans le coeur de ſes ſujets, qui ont ſceu reconnoitre la faveur que Di<g ref="char:EOLhyphen"/>eu leur a fait, en le pla<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant ſur le trone. Et pour les autres, ſi mal<g ref="char:EOLhyphen"/>gré ſa clemence tant de fois eprou<g ref="char:EOLhyphen"/>vée, ils ne peuvent pas ſe reſoudre
+<pb n="40" facs="tcp:153521:23"/> à l'aimer, au moins l'ont ils tous<g ref="char:EOLhyphen"/>jours admiré, avec tout le reſte du monde.</p>
+            <p>Puiſſe regner long temps un Prince ſi digne de regner. Puiſſe t'il juſques a l'age le plus avancé, cueillir tousjours avec plaiſir, les doux fruits d'une Paix qui luy cou<g ref="char:EOLhyphen"/>ſte tant de ſoins &amp; de peines. Qu'elle joye pour nous de penſer qu'un Roy qui nous eſt ſi cher, ne ſera plus expoſé aux perils, que ſon grand coeur luy a fait courir tant de fois. Nous ne craindrons plus pour ſa ſacrée perſonne, <hi>La fleche qui vole le jour, la deſtruction qui degate en plein midy.</hi> Pleuſt a Di<g ref="char:EOLhyphen"/>eu <note place="margin">Pſal. 91. 5, 6.</note> peuſſions nous en dire autant, <hi>de la mortalité qui chemine en te<g ref="char:EOLhyphen"/>nebres.</hi> Pleuſt a Dieu n'euſſions nous plus a craindre, les dangers cachés, ni les conſpirations, ni d'au<g ref="char:EOLhyphen"/>tres ſecrets attentats, ni les mala<g ref="char:EOLhyphen"/>dies. Pardonnés nous meſme
+<pb n="41" facs="tcp:153521:23"/> Grand Roy, ſi malgré la gloire qui vous attend apres' cette vie, notre intereſt &amp; celuy de la poſterité, nous faiſoit ſouhaitter que vous fuſſies immortel.</p>
+            <p>Pratiquons c'en eſt ici le temps, pratiquons cette exhortation d'un Apoſtre; <hi>Soyés en joye avec ceux qui ſont en joye, &amp; en pleur avec</hi> 
+               <note place="margin">Rom. 12. 15.</note> 
+               <hi>ceux qui ſont en pleur.</hi> Réjouiſ<g ref="char:EOLhyphen"/>ſons nous de tout notre coeur avec cet Etat, de la proſperité dont il jouit, &amp; des grands avantages qu'il doit eſperer de la Paix, les Loix de la reconnoiſſance nous ob<g ref="char:EOLhyphen"/>ligent d'entrer parfaittement dans tous ſes intereſts, comme ſi nous en eſtions les ſujets naturels, puiſ<g ref="char:EOLhyphen"/>que Dieu nous fait la grace de trouver un doux azile dans ſon ſein. Mais en meſme temps meſ<g ref="char:EOLhyphen"/>lons nos regrets, &amp; nos pleurs avec ceux de notre Sion. Nous avions eſperé que la Paix eſſuye<g ref="char:EOLhyphen"/>roit
+<pb n="42" facs="tcp:153521:24"/> ſes larmes, ou du moins qu'<g ref="char:EOLhyphen"/>elle y trouveroit quelque ſujet de conſolation. Mais notre eſperance a eſté trompée, &amp; bien loin que ſes maux diminuent, helas nous les voyons redoubler. Ainſi le veux tu Grand Dieu, qui conduis toutes choſes avec une ſageſſe in<g ref="char:EOLhyphen"/>finie. Gardons nous de murmu<g ref="char:EOLhyphen"/>rer contre les ordres ſacrés de ſa Providence. Adorons ſes juſtes jugemens, &amp; en nous reſignant tousjours à ſa volonté, ne nous laſſons point d'implorer ſes com<g ref="char:EOLhyphen"/>paſſions. Mais ſachons que nous ne pouvons eſperer de les emou<g ref="char:EOLhyphen"/>voir que par notre converſion. Voulons nous que Dieu rallume le flambeau de notre Sainte Religion dans le pays de notre naiſſance? Rallumons notre zele pour Dieu. Juſques a ce que nous ayons ſi bien reglé <hi>nos voyes</hi> qu'il y puiſſe <hi>prendre plaiſir,</hi> ne pretendons pas <hi>qu'il ap<g ref="char:EOLhyphen"/>paiſe</hi> 
+               <note place="margin">Prov. 16. 7.</note> 
+               <hi>nos ennemis.</hi>
+            </p>
+            <pb n="43" facs="tcp:153521:24"/>
+            <p> Mais en nous rejouiſſant de la Paix de cet Eſtat, en ſouhaitant la Paix de l'Egliſe dans notre Patrie, ſouvenons nous qu'il y a une autre Paix bien plus importante, bien plus digne de noſtre ardeur. C'eſt la paix avec Dieu. On peut triom<g ref="char:EOLhyphen"/>pher des hommes, quelque puiſ<g ref="char:EOLhyphen"/>ſants qu'ils ſoient. Mais Dieu tri<g ref="char:EOLhyphen"/>omphe de tout ce qui luy reſiſte, ou par ſa grace, ou par ſa juſtice. Et de quoy nous ſervira la Paix de l'Eſtat de quoy nous ſerviroit la paix de l'Egliſe, ſi nous ſommes en guerre avec Dieu? Il en ſera de nous comme de ces criminels, qui goutent le repos du ſommeil, &amp; font d'agreables ſonges, pendant que les Juges meditent contre eux un arreſt de mort, &amp; que les bour<g ref="char:EOLhyphen"/>reaux leur preparent des ſupplices. Le moyen d'eſtre en paix avec Dieu, nous le ſ avons tous c'eſt de nous repentir ſincerement de nos pechés;
+<pb n="44" facs="tcp:153521:25"/> d'implorer ſa miſericorde par les merites infinis de ſon fils J. C. &amp; de travailler avec ſoin, &amp; avec ardeur à notre ſanctification.</p>
+            <p>En particulier faiſons tous nos efforts pour vivre en paix avec tous nos prochains, pour nous re<g ref="char:EOLhyphen"/>concilier avec nos plus grands en<g ref="char:EOLhyphen"/>nemis. Voyés comment les Rois les plus fiers ſavent ſe reſoudre a tout, pour avoir la Paix lorſqu'ils ne peuvent plus s'en paſſer. Leur orgueil apres avoir enflé ſes ondes juſques aux nues, ſhumilie &amp; s'a<g ref="char:EOLhyphen"/>baiſſe juſqu'a terre. Ils vont recher<g ref="char:EOLhyphen"/>cher des Mediateurs aux extremi<g ref="char:EOLhyphen"/>tés du monde. Ils font les plus grandes avances à leurs ennemis. Ils envoyent juſques dans le coeur de leurs Etats pour pouvoir trait<g ref="char:EOLhyphen"/>ter avec eux. Ils donnent les plus grandes marques d'eſtime, de re<g ref="char:EOLhyphen"/>ſpect &amp; ſi l'on veut d'amitié, à ceux qu'ils vouloient traitter avec
+<pb n="45" facs="tcp:153521:25"/> le plus de hauteur, qu'ils hayſſoi<g ref="char:EOLhyphen"/>ent d'avantage &amp; qui auſſi leur avoient fait le plus de mal. Enfin ils reſtituent Rentes, Terres, Villes, Provinces, ſans que de preſque toutes leurs conqueſtes, &amp; de celles de leurs Anceſtres, il leur reſte au<g ref="char:EOLhyphen"/>tre choſe que le triſte ſouvenir de ce qu'elles avoient couſté.</p>
+            <p>Apres cela qui ſera retenu par l'Idole du point d'honneur? Eſt ce qu'elle retient les teſtes couronnées? Si nous faiſions pour bien vivre a<g ref="char:EOLhyphen"/>vec nos prochains, ce qu'on void faire aux Rois pour faire la Paix avec leurs ennemis lors qu'ils en ont beſoin, la bonne intelligence, l'amitié, la tendreſſe regneroient bien toſt parmy tous les particuli<g ref="char:EOLhyphen"/>ers. Quoy donc ſera t'il tous<g ref="char:EOLhyphen"/>jours <note place="margin">Luc. 16. 8.</note> vray, que <hi>les enfans de ce ſi<g ref="char:EOLhyphen"/>ecle ſeront plus prudens en leur ge<g ref="char:EOLhyphen"/>neration que les enfans de la lumiere?</hi> Sera t'il dit que nous ne ferons pas
+<pb n="46" facs="tcp:153521:26"/> pour obeyr a Dieu, pour luy plaire, pour ſauver nos ames, ce que les Rois ne font pas difficulté de faire, pour le bien de leurs Eſtats. <hi>Pour<g ref="char:EOLhyphen"/>chaſſons</hi> 
+               <note place="margin">Heb. 12. 14. Rom. 12. 18.</note> 
+               <hi>donc la paix. Entant qu'en nous eſt, ayons la avec tous,</hi> ſans qu'aucune raiſon d'intereſt &amp; d'ho<g ref="char:EOLhyphen"/>neur du monde, ſoit capable de nous en empecher. Ainſi nous ſerons de vrays enfans de Paix. Dieu qui eſt le Dieu de Paix ſera notre Pere, &amp; nous aurons part a ſon heritage. <hi>Bien heureux</hi> dit le <note place="margin">Mat. 5. 9.</note> ſauveur <hi>bien heureux ſont les pacifi<g ref="char:EOLhyphen"/>ques, car ils ſeront appellés enfans de Dieu.</hi>
+            </p>
+            <closer>A ce grand Dieu Pere, Fils, Saint Eſprit, ſoit honneur &amp; gloire des maintenant &amp; a jamais. <hi>Amen.</hi>
+            </closer>
+            <trailer>FIN.</trailer>
+            <pb facs="tcp:153521:26" rendition="simple:additions"/>
+            <pb facs="tcp:153521:27" rendition="simple:additions"/>
+            <pb facs="tcp:153521:27" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
